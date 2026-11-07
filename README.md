@@ -61,3 +61,9 @@
   <img src="https://github-stats-extended.vercel.app/api?username=ayanshaikh187&show_icons=true&theme=tokyonight" height="165" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ayanshaikh187&layout=compact&theme=tokyonight" height="165" />
 </p>
+
+## 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanshaikh187&theme=tokyonight" alt="GitHub Streak" />
+</p>
