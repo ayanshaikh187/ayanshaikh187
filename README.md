@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./ayanstack-banner.jpg" width="100%" alt="AyanStack GitHub Banner" />
+</p>
 <h1 align="center">Hi, I'm Ayan Shaikh 👋</h1>
 
 <h3 align="center">Junior Full-Stack Developer | MERN Stack</h3>
