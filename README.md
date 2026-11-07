@@ -1,16 +1,54 @@
-## Hi there 👋
 
-<!--
-**ayanshaikh187/ayanshaikh187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Ayan Shaikh 👋</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">Junior Full-Stack Developer | MERN Stack</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Building Ideas Into Digital Products.
+</p>
+
+<p align="center">
+  <a href="https://ayanstack-three.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-34D399?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/ayan-shaikh-web">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🚀 I'm a Junior Full-Stack Developer.
+- 💻 I build modern web applications using the MERN stack.
+- 🌱 Currently improving my full-stack development skills.
+- 🎯 Interested in AI, SaaS and real-world digital products.
+- ⚡ My goal is to turn ideas into useful digital solutions.
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,git,github,vite" />
+</p>
+
+### 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| [EasyMart](https://github.com/ayanshaikh187/easymart) | MERN E-commerce Platform |
+| [FitPlan-AI](https://github.com/ayanshaikh187/Fitplan-AI) | AI-Powered Fitness Planner |
+| [DevMarket](https://github.com/ayanshaikh187) | Full-Stack Marketplace |
+| [MaintainIQ](https://github.com/ayanshaikh187) | Employee Management System |
+
+### 🤝 Connect With Me
+
+- 🌐 Portfolio: https://ayanstack-three.vercel.app
+- 💼 LinkedIn: https://www.linkedin.com/in/ayan-shaikh-web
+- 🐙 GitHub: https://github.com/ayanshaikh187
+
+---
+
+<p align="center">
+  <b>Learn. Build. Grow. 🚀</b>
+</p>
