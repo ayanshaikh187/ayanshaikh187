@@ -85,18 +85,19 @@ My approach is simple: **Learn. Build. Grow.**
 
 ---
 
+
 ## GitHub Statistics
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ayanshaikh187&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
-    height="165"
-    alt="GitHub Statistics"
+    src="https://github-stats-extended.vercel.app/api?username=ayanshaikh187&show_icons=true&hide_border=true&theme=transparent"
+    height="160"
+    alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanshaikh187&layout=compact&hide_border=true&theme=transparent"
-    height="165"
-    alt="Most Used Languages"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=ayanshaikh187&layout=compact&hide_border=true&theme=transparent"
+    height="160"
+    alt="Top Languages"
   />
 </p>
 
@@ -104,12 +105,11 @@ My approach is simple: **Learn. Build. Grow.**
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ayanshaikh187&theme=transparent&hide_border=true"
+    src="https://streak-stats.demolab.com?user=ayanshaikh187&theme=transparent&hide_border=true"
     alt="GitHub Contribution Streak"
   />
 </p>
 
----
 
 ## Connect With Me
 
