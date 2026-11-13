@@ -2,7 +2,7 @@
 <!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img src="./ayanstack-banner.jpg" width="100%" alt="AyanStack - Learn. Build. Grow." />
+  <img src="./ayanstack-banner.png" width="100%" alt="AyanStack - Learn. Build. Grow." />
 </p>
 
 <h1 align="center">Ayan Shaikh</h1>
